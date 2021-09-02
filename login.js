@@ -1,3 +1,4 @@
+// this is a comment
 const uid=document.getElementById("userId");
 const pass=document.getElementById("pwd");
 const log=document.getElementById("log");
