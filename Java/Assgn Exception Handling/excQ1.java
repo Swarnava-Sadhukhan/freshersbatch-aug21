@@ -1,5 +1,3 @@
-package CoreJava.exceptionHandling;
-
 public class excQ1 {
 
 	public static void main(String[] args) {
