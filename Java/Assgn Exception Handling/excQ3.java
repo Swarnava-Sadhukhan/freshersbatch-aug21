@@ -1,5 +1,3 @@
-package CoreJava.exceptionHandling;
-
 class IllegalBankTransactionException extends Exception{
 	public IllegalBankTransactionException() {
 		super("Amount is not valid");
