@@ -1,4 +1,3 @@
-package CoreJava.exceptionHandling;
 
 public class excQ2 {
 
